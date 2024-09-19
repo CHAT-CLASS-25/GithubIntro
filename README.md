@@ -1,2 +1,1 @@
 # GithubIntro
-yo im mantiz
